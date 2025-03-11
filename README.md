@@ -1,5 +1,5 @@
 # ASTM_Cone_Ref_Matl
-This is a repository for the measurement data and associated processing scripts, analysis, and summary reports developed by the ASTM E05.32 E1354 Standard Task Group. This data and associated reports should be considered as a 'predecisional draft copy' prepared for subject matter experts to provide critical review and to ensure the integrity of the measurement data and related analysis submitted to the Working Group.
+This is a repository for the measurement data and associated processing scripts, analysis, and summary reports developed by the ASTM E05.32 E1354 (Cone Calorimeter) Standard Task Group. This data and associated reports should be considered as a 'predecisional draft copy' prepared for subject matter experts to provide critical review and to ensure the integrity of the measurement data and related analysis submitted to the Working Group.
 
 #### How to Submit Experimental Data
 
